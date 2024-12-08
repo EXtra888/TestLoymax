@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cZcrK1X6r3A0j+u1uoLBQKVzz8WiR8zuUEVPAE81WhQa8eH5DmdVnkeLYgXLgZr/4ce2XGesQb0BujnFjCwPfA==",
+  "dgSpecHash": "TbuNFKtUGBH2n0f8KP+5JvCxOqrINavAsm2pAvgc3rOIeB8/Hji4p8Klf0CvupN4PidZaXD2A0t1GTlAqeg6nQ==",
   "success": true,
-  "projectFilePath": "C:\\Extra\\WorkStudy\\C#\\Profect\\Loymax\\TestLoymaxApi\\TestLoymaxApi.csproj",
+  "projectFilePath": "C:\\WorkTime\\WorkStudy\\C#\\Репозитории для примера\\newGit\\TestLoymax\\TestLoymaxApi\\TestLoymaxApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

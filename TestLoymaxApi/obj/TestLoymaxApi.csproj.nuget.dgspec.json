@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Extra\\WorkStudy\\C#\\Profect\\Loymax\\TestLoymaxApi\\TestLoymaxApi.csproj": {}
+    "C:\\WorkTime\\WorkStudy\\C#\\Репозитории для примера\\newGit\\TestLoymax\\TestLoymaxApi\\TestLoymaxApi.csproj": {}
   },
   "projects": {
-    "C:\\Extra\\WorkStudy\\C#\\Profect\\Loymax\\Loymax\\Loymax.csproj": {
+    "C:\\WorkTime\\WorkStudy\\C#\\Репозитории для примера\\newGit\\TestLoymax\\Loymax\\Loymax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Extra\\WorkStudy\\C#\\Profect\\Loymax\\Loymax\\Loymax.csproj",
+        "projectUniqueName": "C:\\WorkTime\\WorkStudy\\C#\\Репозитории для примера\\newGit\\TestLoymax\\Loymax\\Loymax.csproj",
         "projectName": "Loymax",
-        "projectPath": "C:\\Extra\\WorkStudy\\C#\\Profect\\Loymax\\Loymax\\Loymax.csproj",
+        "projectPath": "C:\\WorkTime\\WorkStudy\\C#\\Репозитории для примера\\newGit\\TestLoymax\\Loymax\\Loymax.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Extra\\WorkStudy\\C#\\Profect\\Loymax\\Loymax\\obj\\",
+        "outputPath": "C:\\WorkTime\\WorkStudy\\C#\\Репозитории для примера\\newGit\\TestLoymax\\Loymax\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,14 +100,14 @@
         }
       }
     },
-    "C:\\Extra\\WorkStudy\\C#\\Profect\\Loymax\\TestLoymaxApi\\TestLoymaxApi.csproj": {
+    "C:\\WorkTime\\WorkStudy\\C#\\Репозитории для примера\\newGit\\TestLoymax\\TestLoymaxApi\\TestLoymaxApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Extra\\WorkStudy\\C#\\Profect\\Loymax\\TestLoymaxApi\\TestLoymaxApi.csproj",
+        "projectUniqueName": "C:\\WorkTime\\WorkStudy\\C#\\Репозитории для примера\\newGit\\TestLoymax\\TestLoymaxApi\\TestLoymaxApi.csproj",
         "projectName": "TestLoymaxApi",
-        "projectPath": "C:\\Extra\\WorkStudy\\C#\\Profect\\Loymax\\TestLoymaxApi\\TestLoymaxApi.csproj",
+        "projectPath": "C:\\WorkTime\\WorkStudy\\C#\\Репозитории для примера\\newGit\\TestLoymax\\TestLoymaxApi\\TestLoymaxApi.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Extra\\WorkStudy\\C#\\Profect\\Loymax\\TestLoymaxApi\\obj\\",
+        "outputPath": "C:\\WorkTime\\WorkStudy\\C#\\Репозитории для примера\\newGit\\TestLoymax\\TestLoymaxApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -124,8 +124,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Extra\\WorkStudy\\C#\\Profect\\Loymax\\Loymax\\Loymax.csproj": {
-                "projectPath": "C:\\Extra\\WorkStudy\\C#\\Profect\\Loymax\\Loymax\\Loymax.csproj"
+              "C:\\WorkTime\\WorkStudy\\C#\\Репозитории для примера\\newGit\\TestLoymax\\Loymax\\Loymax.csproj": {
+                "projectPath": "C:\\WorkTime\\WorkStudy\\C#\\Репозитории для примера\\newGit\\TestLoymax\\Loymax\\Loymax.csproj"
               }
             }
           }
